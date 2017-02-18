@@ -23,4 +23,4 @@ This project aims to help in developing domains using CQRS /  Event Sourcing, fo
 7. An EventRepository implementation for events stored as JSON
 
 # Software stack
-This will be based on Apache Camel and Postgres. Both are like Swiss Army Knives and probably enough to have your domain up and running, ready to explore. The point is: once your domain is validated, you can leverage it in another stack of your choice. 
+This will be based on Apache Camel and Postgres. Both are like Swiss Army Knives and probably enough to have your domain up and running, ready to explore and integrate with your application. The point is: once your domain is validated, you can leverage it in another stack of your choice. 
