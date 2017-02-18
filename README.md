@@ -18,4 +18,4 @@ This project aims to help in developing domains using CQRS /  Event Sourcing, fo
 4. Database persistence
 
 # Stack
-This will be based on Apache Camel and Postgres. Both are Swiss Army Knives and are enough to have your domain up and running, ready to explore. The point is: once your domain is validated, you can leverage it in another stack of your choice. 
+This will be based on Apache Camel and Postgres. Both are like Swiss Army Knives and enough to have your domain up and running, ready to explore. The point is: once your domain is validated, you can leverage it in another stack of your choice. 
