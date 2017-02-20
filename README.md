@@ -20,8 +20,8 @@ This project aims to help in developing domains using CQRS /  Event Sourcing, fo
 3. Routes to validate submitted commands and once validated, to enqueue then for further processing
 4. Routes to listen for arriving commands, process them and enqueue resulting events
 5. Routes to listen for published events and submiting them to read model's projections and saga event listeners
-6. A Journal implementation for storing commands as JSON
-7. An EventRepository implementation for events stored as JSON
+6. A Journal implementation for storing Commands and i'ts respective events as JSON
+7. An Event Repository implementation for events stored as JSON
 8. A Command Scheduler  
 
 # Software stack
