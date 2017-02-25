@@ -25,6 +25,6 @@ This project aims to help in developing domains using CQRS /  Event Sourcing, fo
 8. A Command Scheduler  
 
 # Software stack
-The first implementation will be based on Apache Camel and Postgres. Both are like Swiss Army Knives and enough to have your domain up and running, ready to explore and integrate with your application. And if your solution needs to meet a higher level of non functional requirements, you can leverage the resulting domain in another stack of your choice. Based on the results of the first implementation, there are chances to start implementing a new stack, probably based on Ratpack. ~~Candidates are Vertx and Grpc. 
+The first implementation will be based on Apache Camel and Postgres. Both are like Swiss Army Knives and enough to have your domain up and running, ready to explore and integrate with your application. And if your solution needs to meet a higher level of non functional requirements, you can leverage the resulting domain in another stack of your choice. Based on the results of the first implementation, there are chances to start implementing a new stack, probably based on Ratpack. ~~Candidates are Vertx and Grpc~~ 
 
 The point is: you can spend your precious time on what's really matter, your domain. 
